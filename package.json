@@ -1,0 +1,11 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "author": "PolishedNFT",
+  "license": "MIT",
+  "description": "Studies the Polished toolchain manifest file",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  }
+}
